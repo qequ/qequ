@@ -1,1 +1,1 @@
-![Typing](lain-typing.gif)
+![Typing](lain-serial-experiments-lain.gif)
