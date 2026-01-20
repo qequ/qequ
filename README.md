@@ -1,3 +1,7 @@
-> Mostly building tools, linters, and compilers.
+<p align="center">
+  <code>Mostly building tools, linters, and compilers.</code>
+</p>
 
-![Typing](lain-serial-experiments-lain.gif)
+<p align="center">
+  <img src="lain-serial-experiments-lain.gif" alt="Typing">
+</p>
